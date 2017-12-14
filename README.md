@@ -7,7 +7,7 @@
 http://people.ischool.berkeley.edu/~amy/209_final_project/index.html
 
 ### Tableau Vizzes
-https://public.tableau.com/profile/matthew.nelson6182#!/
+https://public.tableau.com/profile/matthew.nelson6182#!/ . 
 https://public.tableau.com/profile/varadarajan.srinivasan#!/
 
 
