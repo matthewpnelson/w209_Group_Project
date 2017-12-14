@@ -269,7 +269,7 @@ main {
 #slide-9 .hsContent {
 	margin-left: -450px;
   bottom: 200px;
-  top: 20%;
+  top: 10%;
 }
 	#slide-9 h2 {
     color: #f2ead6;
@@ -502,7 +502,7 @@ main {
   font-size: 20px;
   font-weight: bold;
   padding: 10px;
-  width: 140px;
+  width: 160px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
