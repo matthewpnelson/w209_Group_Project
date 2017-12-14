@@ -1,0 +1,865 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"Year"	"Year Code"	"States and Puerto Rico"	"States and Puerto Rico Code"	Count	Population	Age-Adjusted Rate
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Alabama"	"01"	3339	4430141	72.8
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Alaska"	"02"	275	624779	79.2
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Arizona"	"04"	3047	5023823	59.6
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"California"	"06"	17481	33499204	61.0
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Colorado"	"08"	1766	4226018	51.7
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Connecticut"	"09"	2492	3386401	68.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Delaware"	"10"	654	774990	82.3
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"District of Columbia"	"11"	420	570213	76.0
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Florida"	"12"	15631	15759421	77.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Georgia"	"13"	4942	8045965	74.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Hawaii"	"15"	687	1210300	55.3
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Idaho"	"16"	629	1275674	54.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Illinois"	"17"	8763	12359020	74.0
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Indiana"	"18"	4669	6044969	78.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Iowa"	"19"	2203	2917634	67.6
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Kansas"	"20"	1802	2678338	66.6
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Kentucky"	"21"	4050	4018053	100.2
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Louisiana"	"22"	3490	4460811	84.3
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Maine"	"23"	1107	1266808	78.3
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Maryland"	"24"	3697	5254509	75.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Massachusetts"	"25"	4804	6317345	72.9
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Michigan"	"26"	7294	9897116	75.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Minnesota"	"27"	2647	4873481	57.2
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Missouri"	"29"	4754	5561948	81.6
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Montana"	"30"	601	897507	63.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Nebraska"	"31"	1084	1704764	61.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Nevada"	"32"	1457	1934718	81.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"New Hampshire"	"33"	840	1222014	70.9
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"New Jersey"	"34"	5963	8359592	68.6
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"New Mexico"	"35"	810	1808082	48.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"New York"	"36"	12672	18882725	66.3
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"North Carolina"	"37"	5514	7949361	70.7
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"North Dakota"	"38"	374	644259	53.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Ohio"	"39"	9171	11335454	77.8
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Oklahoma"	"40"	2853	3437147	80.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Oregon"	"41"	2550	3393941	73.9
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Pennsylvania"	"42"	9999	12263805	69.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Rhode Island"	"44"	916	1040402	80.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"South Carolina"	"45"	3004	3974682	76.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Tennessee"	"47"	3956	5638706	69.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Texas"	"48"	11978	20558220	71.4
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Utah"	"49"	522	2203482	34.0
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Vermont"	"50"	438	604683	71.3
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Virginia"	"51"	4112	7000174	63.0
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Washington"	"53"	3950	5842564	74.0
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"West Virginia"	"54"	2033	1811799	94.9
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Wisconsin"	"55"	3603	5332666	66.5
+	"Lung and Bronchus"	"22030"	"1999"	"1999"	"Wyoming"	"56"	281	491780	60.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Alabama"	"01"	3440	4452173	74.4
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Alaska"	"02"	260	627963	72.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Arizona"	"04"	3184	5160586	60.7
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"California"	"06"	17523	33987977	60.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Colorado"	"08"	1885	4326921	53.6
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Connecticut"	"09"	2466	3411777	67.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Delaware"	"10"	629	786373	77.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"District of Columbia"	"11"	356	572046	64.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Florida"	"12"	15940	16047515	77.6
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Georgia"	"13"	5280	8227303	78.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Hawaii"	"15"	652	1213519	51.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Idaho"	"16"	743	1299430	62.9
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Illinois"	"17"	8619	12434161	72.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Indiana"	"18"	4671	6091866	77.7
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Iowa"	"19"	2232	2929067	68.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Kansas"	"20"	1745	2693681	64.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Kentucky"	"21"	4157	4049021	101.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Louisiana"	"22"	3433	4471885	82.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Maine"	"23"	1173	1277072	81.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Maryland"	"24"	3579	5311034	71.6
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Massachusetts"	"25"	4783	6361104	71.8
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Michigan"	"26"	7337	9952450	75.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Minnesota"	"27"	2683	4933692	57.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Missouri"	"29"	4543	5607285	77.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Montana"	"30"	690	903773	71.7
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Nebraska"	"31"	1103	1713820	62.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Nevada"	"32"	1581	2018741	85.4
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"New Hampshire"	"33"	868	1239882	71.6
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"New Jersey"	"34"	6012	8430621	68.4
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"New Mexico"	"35"	843	1821204	49.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"New York"	"36"	13047	19001780	67.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"North Carolina"	"37"	5685	8081614	71.7
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"North Dakota"	"38"	382	642023	55.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Ohio"	"39"	8830	11363543	74.4
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Oklahoma"	"40"	2966	3454365	82.8
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Oregon"	"41"	2483	3429708	71.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Pennsylvania"	"42"	10093	12284173	69.8
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Rhode Island"	"44"	924	1050268	80.7
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"South Carolina"	"45"	2998	4024223	74.9
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Tennessee"	"47"	3991	5703719	69.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Texas"	"48"	11996	20944499	70.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Utah"	"49"	440	2244502	28.2
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Vermont"	"50"	411	609618	65.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Virginia"	"51"	4190	7105817	63.0
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Washington"	"53"	3874	5910512	71.3
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"West Virginia"	"54"	1999	1807021	92.8
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Wisconsin"	"55"	3477	5373999	63.5
+	"Lung and Bronchus"	"22030"	"2000"	"2000"	"Wyoming"	"56"	255	494300	54.0
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Alabama"	"01"	3644	4467634	77.9
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Alaska"	"02"	283	633714	74.4
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Arizona"	"04"	3308	5273477	61.7
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Arkansas"	"05"	2442	2691571	83.3
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"California"	"06"	17585	34479458	59.1
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Colorado"	"08"	2019	4425687	56.3
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Connecticut"	"09"	2547	3432835	68.8
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Delaware"	"10"	623	795699	75.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"District of Columbia"	"11"	407	574504	73.1
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Florida"	"12"	15702	16356966	75.1
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Georgia"	"13"	5375	8377038	77.8
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Hawaii"	"15"	616	1225948	47.5
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Idaho"	"16"	631	1319962	52.3
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Illinois"	"17"	8795	12488445	73.3
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Indiana"	"18"	4874	6127760	80.5
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Iowa"	"19"	2189	2931997	66.4
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Kansas"	"20"	1774	2702162	64.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Kentucky"	"21"	4282	4068132	103.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Louisiana"	"22"	3504	4477875	82.8
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Maine"	"23"	1203	1285692	82.3
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Maryland"	"24"	3386	5374691	66.5
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Massachusetts"	"25"	4877	6397634	72.8
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Michigan"	"26"	7408	9991120	74.9
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Minnesota"	"27"	2773	4982796	58.3
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Missouri"	"29"	4551	5641142	76.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Montana"	"30"	692	906961	70.7
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Nebraska"	"31"	1123	1719836	63.2
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Nevada"	"32"	1556	2098399	79.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"New Hampshire"	"33"	847	1255517	68.9
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"New Jersey"	"34"	6044	8492671	68.2
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"New Mexico"	"35"	824	1831690	46.8
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"New York"	"36"	12805	19082838	65.4
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"North Carolina"	"37"	5603	8210122	69.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"North Dakota"	"38"	384	639062	55.0
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Ohio"	"39"	9223	11387404	77.2
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Oklahoma"	"40"	3102	3467100	85.9
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Oregon"	"41"	2560	3467937	72.1
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Pennsylvania"	"42"	10341	12298970	71.4
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Rhode Island"	"44"	832	1057142	72.0
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"South Carolina"	"45"	3105	4064995	76.2
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"South Dakota"	"46"	487	757972	59.9
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Tennessee"	"47"	4082	5750789	69.7
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Texas"	"48"	12382	21319622	70.9
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Utah"	"49"	507	2283715	31.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Vermont"	"50"	412	612223	64.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Virginia"	"51"	4108	7198362	60.5
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Washington"	"53"	3978	5985722	72.0
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"West Virginia"	"54"	2026	1801481	93.6
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Wisconsin"	"55"	3692	5406835	66.7
+	"Lung and Bronchus"	"22030"	"2001"	"2001"	"Wyoming"	"56"	245	494657	50.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Alabama"	"01"	3627	4480089	76.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Alaska"	"02"	289	642337	72.4
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Arizona"	"04"	3251	5396255	59.0
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Arkansas"	"05"	2453	2705927	82.4
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"California"	"06"	17469	34871843	57.6
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Colorado"	"08"	2064	4490406	56.4
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Connecticut"	"09"	2629	3458749	70.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Delaware"	"10"	622	806169	73.4
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Florida"	"12"	15954	16689370	74.6
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Georgia"	"13"	5514	8508256	77.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Hawaii"	"15"	684	1239613	51.6
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Idaho"	"16"	683	1340372	55.3
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Illinois"	"17"	9043	12525556	74.7
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Indiana"	"18"	4978	6155967	81.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Iowa"	"19"	2228	2934234	67.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Kansas"	"20"	1720	2713535	62.4
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Kentucky"	"21"	4304	4089875	102.6
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Louisiana"	"22"	3316	4497267	77.1
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Maine"	"23"	1184	1295960	79.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Maryland"	"24"	3614	5440389	69.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Massachusetts"	"25"	4937	6417206	73.0
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Michigan"	"26"	7406	10015710	74.0
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Minnesota"	"27"	2826	5018935	58.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Missouri"	"29"	4878	5674825	81.0
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Montana"	"30"	667	911667	67.0
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Nebraska"	"31"	1132	1728292	62.9
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Nevada"	"32"	1637	2173791	80.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"New Hampshire"	"33"	891	1269089	71.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"New Jersey"	"34"	6077	8552643	67.7
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"New Mexico"	"35"	904	1855309	50.3
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"New York"	"36"	13021	19137800	65.7
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"North Carolina"	"37"	6000	8326201	72.6
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"North Dakota"	"38"	420	638168	59.3
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Ohio"	"39"	9224	11407889	76.4
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Oklahoma"	"40"	3138	3489080	85.8
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Oregon"	"41"	2582	3513424	71.1
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Pennsylvania"	"42"	10477	12331031	71.6
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Rhode Island"	"44"	907	1065995	78.1
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"South Carolina"	"45"	3162	4107795	76.1
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"South Dakota"	"46"	516	760020	62.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Tennessee"	"47"	4308	5795918	72.1
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Texas"	"48"	12584	21690325	70.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Utah"	"49"	485	2324815	29.5
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Vermont"	"50"	391	615442	60.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Virginia"	"51"	4413	7286873	63.7
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Washington"	"53"	3901	6052349	69.0
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"West Virginia"	"54"	1996	1805414	91.1
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Wisconsin"	"55"	3612	5445162	64.2
+	"Lung and Bronchus"	"22030"	"2002"	"2002"	"Wyoming"	"56"	259	500017	52.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Alabama"	"01"	3564	4503491	74.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Alaska"	"02"	299	648414	76.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Arizona"	"04"	3436	5510364	60.7
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Arkansas"	"05"	2467	2724816	82.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"California"	"06"	17395	35253159	56.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Colorado"	"08"	2041	4528732	54.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Connecticut"	"09"	2667	3484336	70.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Delaware"	"10"	738	818003	85.0
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"District of Columbia"	"11"	374	568502	66.7
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Florida"	"12"	15982	17004085	73.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Georgia"	"13"	5542	8622793	76.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Hawaii"	"15"	707	1251154	52.0
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Idaho"	"16"	763	1363380	60.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Illinois"	"17"	9090	12556006	74.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Indiana"	"18"	5086	6196638	81.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Iowa"	"19"	2344	2941999	70.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Kansas"	"20"	1819	2723004	65.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Kentucky"	"21"	4300	4117170	100.8
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Louisiana"	"22"	3512	4521042	80.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Maine"	"23"	1223	1306513	80.8
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Maryland"	"24"	3836	5496269	72.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Massachusetts"	"25"	4873	6422565	71.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Michigan"	"26"	7994	10041152	78.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Minnesota"	"27"	2929	5053572	59.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Mississippi"	"28"	2313	2868312	81.0
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Missouri"	"29"	5075	5709403	83.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Montana"	"30"	675	919630	66.4
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Nebraska"	"31"	1175	1738643	65.0
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Nevada"	"32"	1680	2248850	78.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"New Hampshire"	"33"	914	1279840	71.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"New Jersey"	"34"	6010	8601402	66.3
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"New Mexico"	"35"	854	1877574	46.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"New York"	"36"	13013	19175939	65.0
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"North Carolina"	"37"	6243	8422501	73.7
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"North Dakota"	"38"	446	638817	63.0
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Ohio"	"39"	9184	11434788	75.1
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Oklahoma"	"40"	3055	3504892	82.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Oregon"	"41"	2544	3547376	68.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Pennsylvania"	"42"	10411	12374658	70.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Rhode Island"	"44"	878	1071342	74.7
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"South Carolina"	"45"	3264	4150297	76.4
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"South Dakota"	"46"	519	763729	62.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Tennessee"	"47"	4710	5847812	77.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Texas"	"48"	12911	22030931	70.6
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Utah"	"49"	545	2360137	32.2
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Vermont"	"50"	463	617858	69.9
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Virginia"	"51"	5013	7366977	71.3
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Washington"	"53"	4070	6104115	70.8
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"West Virginia"	"54"	1905	1812295	85.5
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Wisconsin"	"55"	3725	5479203	65.3
+	"Lung and Bronchus"	"22030"	"2003"	"2003"	"Wyoming"	"56"	295	503453	58.1
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Alabama"	"01"	3804	4530729	77.8
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Alaska"	"02"	327	659286	78.9
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Arizona"	"04"	3451	5652404	59.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Arkansas"	"05"	2525	2749686	82.5
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"California"	"06"	17434	35574576	55.5
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Colorado"	"08"	2002	4575013	51.7
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Connecticut"	"09"	2582	3496094	67.3
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Delaware"	"10"	732	830803	82.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"District of Columbia"	"11"	345	567754	62.1
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Florida"	"12"	16396	17415318	73.6
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Georgia"	"13"	5493	8769252	73.9
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Hawaii"	"15"	773	1273569	55.6
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Idaho"	"16"	775	1391802	59.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Illinois"	"17"	8882	12589773	71.9
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Indiana"	"18"	4913	6233007	78.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Iowa"	"19"	2285	2953635	67.7
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Kansas"	"20"	1772	2734373	62.7
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Kentucky"	"21"	4464	4146101	103.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Louisiana"	"22"	3578	4552238	81.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Maine"	"23"	1273	1313688	82.3
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Maryland"	"24"	3726	5546935	69.3
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Massachusetts"	"25"	4961	6412281	72.2
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Michigan"	"26"	7686	10055315	74.7
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Minnesota"	"27"	2917	5087713	58.4
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Mississippi"	"28"	2333	2889010	80.8
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Missouri"	"29"	4977	5747741	80.6
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Montana"	"30"	653	930009	63.4
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Nebraska"	"31"	1235	1749370	67.2
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Nevada"	"32"	1721	2346222	76.8
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"New Hampshire"	"33"	986	1290121	75.2
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"New Jersey"	"34"	5786	8634561	63.3
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"New Mexico"	"35"	903	1903808	47.6
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"New York"	"36"	13122	19171567	64.9
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"North Carolina"	"37"	6607	8553152	76.2
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"North Dakota"	"38"	421	644705	58.0
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Ohio"	"39"	9455	11452251	76.8
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Oklahoma"	"40"	3059	3525233	81.4
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Oregon"	"41"	2640	3569463	69.7
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Pennsylvania"	"42"	10327	12410722	69.7
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Rhode Island"	"44"	903	1074579	75.5
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"South Carolina"	"45"	3207	4210921	73.2
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"South Dakota"	"46"	523	770396	61.6
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Tennessee"	"47"	5162	5910809	83.5
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Texas"	"48"	12801	22394023	68.3
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Utah"	"49"	511	2401580	29.5
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Vermont"	"50"	441	619920	65.4
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Virginia"	"51"	5084	7475575	70.6
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Washington"	"53"	4053	6178645	68.5
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"West Virginia"	"54"	1982	1816438	88.8
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Wisconsin"	"55"	3780	5514026	65.3
+	"Lung and Bronchus"	"22030"	"2004"	"2004"	"Wyoming"	"56"	276	509106	53.6
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Alabama"	"01"	3763	4565917	76.0
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Alaska"	"02"	337	666946	79.2
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Arizona"	"04"	3567	5839077	58.6
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Arkansas"	"05"	2609	2781097	83.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"California"	"06"	17553	35827943	54.8
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Colorado"	"08"	1992	4631888	50.0
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Connecticut"	"09"	2621	3506956	67.6
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Delaware"	"10"	783	845150	84.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"District of Columbia"	"11"	356	567136	63.6
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Florida"	"12"	16491	17842038	72.2
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Georgia"	"13"	5649	8925922	73.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Hawaii"	"15"	774	1292729	54.3
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Idaho"	"16"	818	1428241	60.3
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Illinois"	"17"	9052	12609903	72.4
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Indiana"	"18"	5066	6278616	79.2
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Iowa"	"19"	2421	2964454	70.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Kansas"	"20"	1887	2745299	65.8
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Kentucky"	"21"	4460	4182742	101.0
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Louisiana"	"22"	3416	4411396	78.1
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Maine"	"23"	1265	1318787	80.4
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Maryland"	"24"	3752	5592379	68.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Massachusetts"	"25"	5182	6403290	74.8
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Michigan"	"26"	7880	10051137	75.8
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Minnesota"	"27"	2923	5119598	57.5
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Mississippi"	"28"	2272	2876229	77.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Missouri"	"29"	5250	5790300	83.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Montana"	"30"	745	940102	70.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Nebraska"	"31"	1202	1761497	64.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Nevada"	"32"	1632	2432143	71.4
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"New Hampshire"	"33"	1032	1298492	76.4
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"New Jersey"	"34"	6118	8651974	66.5
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"New Mexico"	"35"	956	1932274	48.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"New York"	"36"	13183	19132610	64.8
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"North Carolina"	"37"	6982	8705407	78.4
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"North Dakota"	"38"	458	646089	62.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Ohio"	"39"	9560	11463320	76.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Oklahoma"	"40"	3120	3548597	82.0
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Oregon"	"41"	2715	3613202	70.1
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Pennsylvania"	"42"	10694	12449990	71.7
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Rhode Island"	"44"	876	1067916	74.5
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"South Carolina"	"45"	3453	4270150	76.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"South Dakota"	"46"	526	775493	60.8
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Tennessee"	"47"	5313	5991057	83.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Texas"	"48"	13152	22773020	68.3
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Utah"	"49"	560	2457719	31.4
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Vermont"	"50"	478	621215	70.2
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Virginia"	"51"	5227	7577105	70.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Washington"	"53"	4127	6257305	68.3
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"West Virginia"	"54"	2131	1820492	94.3
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Wisconsin"	"55"	3702	5546166	63.0
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Wyoming"	"56"	291	514157	54.9
+	"Lung and Bronchus"	"22030"	"2005"	"2005"	"Puerto Rico"	"72"	697	3821362	18.0
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Alabama"	"01"	3827	4628981	75.3
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Alaska"	"02"	350	675302	76.3
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Arizona"	"04"	3527	6029141	56.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Arkansas"	"05"	2499	2821761	78.5
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"California"	"06"	17597	36021202	54.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Colorado"	"08"	2032	4720423	49.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Connecticut"	"09"	2713	3517460	69.3
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Delaware"	"10"	814	859268	85.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"District of Columbia"	"11"	354	570681	63.7
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Florida"	"12"	16242	18166990	69.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Georgia"	"13"	5868	9155813	73.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Hawaii"	"15"	756	1309731	52.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Idaho"	"16"	796	1468669	56.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Illinois"	"17"	9275	12643955	73.6
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Indiana"	"18"	5297	6332669	81.8
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Iowa"	"19"	2389	2982644	69.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Kansas"	"20"	1881	2762931	65.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Kentucky"	"21"	4589	4219239	101.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Louisiana"	"22"	3421	4302665	78.7
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Maine"	"23"	1279	1323619	80.7
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Maryland"	"24"	3770	5627367	67.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Massachusetts"	"25"	5070	6410084	72.6
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Michigan"	"26"	7890	10036081	74.7
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Minnesota"	"27"	2901	5163555	55.8
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Mississippi"	"28"	2359	2904978	79.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Missouri"	"29"	5227	5842704	81.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Montana"	"30"	714	952692	65.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Nebraska"	"31"	1204	1772693	63.8
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Nevada"	"32"	1785	2522658	74.8
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"New Hampshire"	"33"	982	1308389	70.9
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"New Jersey"	"34"	6135	8661679	66.1
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"New Mexico"	"35"	940	1962137	46.6
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"New York"	"36"	13346	19104631	65.3
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"North Carolina"	"37"	7084	8917270	77.0
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"North Dakota"	"38"	405	649422	55.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Ohio"	"39"	9653	11481213	76.6
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Oklahoma"	"40"	3200	3594090	82.5
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Oregon"	"41"	2687	3670883	67.3
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Pennsylvania"	"42"	10644	12510809	70.6
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Rhode Island"	"44"	853	1063096	71.5
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"South Carolina"	"45"	3476	4357847	74.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"South Dakota"	"46"	546	783033	62.1
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Tennessee"	"47"	5409	6088766	83.1
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Texas"	"48"	12930	23359580	65.0
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Utah"	"49"	570	2525507	30.0
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Vermont"	"50"	570	622892	81.7
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Virginia"	"51"	5153	7673725	68.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Washington"	"53"	4177	6370753	67.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"West Virginia"	"54"	2097	1827912	91.4
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Wisconsin"	"55"	3818	5577655	64.2
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Wyoming"	"56"	272	522667	50.7
+	"Lung and Bronchus"	"22030"	"2006"	"2006"	"Puerto Rico"	"72"	685	3805214	17.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Alabama"	"01"	3867	4672840	74.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Alaska"	"02"	330	680300	68.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Arizona"	"04"	3638	6167681	56.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Arkansas"	"05"	2703	2848650	84.0
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"California"	"06"	17443	36250311	52.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Colorado"	"08"	2202	4803868	51.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Connecticut"	"09"	2693	3527270	67.7
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Delaware"	"10"	744	871749	76.2
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"District of Columbia"	"11"	335	574404	60.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Florida"	"12"	16140	18367842	68.2
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Georgia"	"13"	6138	9349988	74.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Hawaii"	"15"	795	1315675	52.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Idaho"	"16"	823	1505105	56.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Illinois"	"17"	9361	12695866	73.1
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Indiana"	"18"	5285	6379599	79.7
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Iowa"	"19"	2415	2999212	68.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Kansas"	"20"	1915	2783785	65.1
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Kentucky"	"21"	4613	4256672	99.7
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Louisiana"	"22"	3444	4375581	77.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Maine"	"23"	1291	1327040	78.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Maryland"	"24"	3776	5653408	67.1
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Massachusetts"	"25"	5070	6431559	71.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Michigan"	"26"	8163	10001284	76.0
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Minnesota"	"27"	3057	5207203	57.9
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Mississippi"	"28"	2522	2928350	83.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Missouri"	"29"	5083	5887612	78.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Montana"	"30"	745	964706	65.9
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Nebraska"	"31"	1290	1783440	67.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Nevada"	"32"	1717	2601072	69.6
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"New Hampshire"	"33"	999	1312540	70.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"New Jersey"	"34"	6155	8677885	65.7
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"New Mexico"	"35"	979	1990070	47.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"New York"	"36"	13535	19132335	65.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"North Carolina"	"37"	7195	9118037	75.6
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"North Dakota"	"38"	408	652822	55.1
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Ohio"	"39"	9563	11500468	74.9
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Oklahoma"	"40"	3228	3634349	81.9
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Oregon"	"41"	2644	3722417	64.5
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Pennsylvania"	"42"	10852	12563937	71.1
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Rhode Island"	"44"	924	1057315	76.6
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"South Carolina"	"45"	3607	4444110	75.0
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"South Dakota"	"46"	556	791623	61.7
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Tennessee"	"47"	5293	6175727	79.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Texas"	"48"	13247	23831983	64.8
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Utah"	"49"	551	2597746	28.6
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Vermont"	"50"	522	623481	72.4
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Virginia"	"51"	5078	7751000	66.0
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Washington"	"53"	3961	6461587	62.0
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"West Virginia"	"54"	2030	1834052	87.6
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Wisconsin"	"55"	3855	5610775	63.7
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Wyoming"	"56"	271	534876	49.3
+	"Lung and Bronchus"	"22030"	"2007"	"2007"	"Puerto Rico"	"72"	669	3782995	16.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Alabama"	"01"	4128	4718206	78.2
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Alaska"	"02"	349	687455	71.7
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Arizona"	"04"	3639	6280362	54.7
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Arkansas"	"05"	2687	2874554	81.4
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"California"	"06"	17321	36604337	51.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Colorado"	"08"	2281	4889730	51.4
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Connecticut"	"09"	2711	3545579	67.2
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Delaware"	"10"	773	883874	77.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"District of Columbia"	"11"	328	580236	58.7
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Florida"	"12"	16596	18527305	68.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Georgia"	"13"	6231	9504843	72.9
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Hawaii"	"15"	807	1332213	52.6
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Idaho"	"16"	849	1534320	56.1
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Illinois"	"17"	9394	12747038	72.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Indiana"	"18"	5395	6424806	79.7
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Iowa"	"19"	2441	3016734	69.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Kansas"	"20"	1914	2808076	64.2
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Kentucky"	"21"	4804	4289878	101.8
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Louisiana"	"22"	3512	4435586	77.1
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Maine"	"23"	1283	1330509	77.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Maryland"	"24"	3859	5684965	67.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Massachusetts"	"25"	5176	6468967	72.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Michigan"	"26"	7873	9946889	72.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Minnesota"	"27"	3073	5247018	56.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Mississippi"	"28"	2613	2947806	85.2
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Missouri"	"29"	5142	5923916	77.6
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Montana"	"30"	707	976415	61.3
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Nebraska"	"31"	1213	1796378	62.6
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Nevada"	"32"	1785	2653630	70.4
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"New Hampshire"	"33"	1034	1315906	71.2
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"New Jersey"	"34"	6158	8711090	64.7
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"New Mexico"	"35"	968	2010662	45.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"New York"	"36"	13745	19212436	65.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"North Carolina"	"37"	7315	9309449	74.3
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"North Dakota"	"38"	401	657569	52.9
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Ohio"	"39"	9746	11515391	74.9
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Oklahoma"	"40"	3269	3668976	81.1
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Oregon"	"41"	2757	3768748	65.6
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Pennsylvania"	"42"	10744	12612285	69.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Rhode Island"	"44"	920	1055003	75.2
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"South Carolina"	"45"	3590	4528996	71.9
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"South Dakota"	"46"	555	799124	61.1
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Tennessee"	"47"	5462	6247411	79.4
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Texas"	"48"	13446	24309039	63.8
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Utah"	"49"	513	2663029	25.5
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Vermont"	"50"	496	624151	68.0
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Virginia"	"51"	5352	7833496	67.9
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Washington"	"53"	4214	6562231	64.4
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"West Virginia"	"54"	2138	1840310	90.4
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Wisconsin"	"55"	3950	5640996	63.7
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Wyoming"	"56"	302	546043	52.9
+	"Lung and Bronchus"	"22030"	"2008"	"2008"	"Puerto Rico"	"72"	705	3760866	17.2
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Alabama"	"01"	4053	4757938	75.4
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Alaska"	"02"	365	698895	72.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Arizona"	"04"	3891	6343154	56.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Arkansas"	"05"	2570	2896843	76.6
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"California"	"06"	18035	36961229	51.9
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Colorado"	"08"	2245	4972195	49.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Connecticut"	"09"	2665	3561807	65.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Delaware"	"10"	746	891730	73.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"District of Columbia"	"11"	354	592228	61.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Florida"	"12"	16545	18652644	66.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Georgia"	"13"	6318	9620846	72.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Hawaii"	"15"	769	1346717	48.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Idaho"	"16"	813	1554439	52.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Illinois"	"17"	9617	12796778	72.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Indiana"	"18"	5361	6459325	77.7
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Iowa"	"19"	2472	3032870	68.5
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Kansas"	"20"	1931	2832704	63.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Kentucky"	"21"	4750	4317074	99.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Louisiana"	"22"	3473	4491648	74.4
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Maine"	"23"	1343	1329590	79.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Maryland"	"24"	3695	5730388	62.4
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Massachusetts"	"25"	5196	6517613	71.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Michigan"	"26"	7775	9901591	69.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Minnesota"	"27"	3183	5281203	57.2
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Mississippi"	"28"	2495	2958774	79.5
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Missouri"	"29"	5362	5961088	79.6
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Montana"	"30"	723	983982	61.4
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Nebraska"	"31"	1155	1812683	58.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Nevada"	"32"	1725	2684665	65.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"New Hampshire"	"33"	1039	1316102	69.9
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"New Jersey"	"34"	6019	8755602	62.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"New Mexico"	"35"	965	2036802	44.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"New York"	"36"	13696	19307066	64.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"North Carolina"	"37"	7501	9449566	74.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"North Dakota"	"38"	419	664968	54.4
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Ohio"	"39"	9905	11528896	75.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Oklahoma"	"40"	3019	3717572	74.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Oregon"	"41"	2733	3808600	63.7
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Pennsylvania"	"42"	10803	12666858	69.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Rhode Island"	"44"	908	1053646	74.7
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"South Carolina"	"45"	3745	4589872	73.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"South Dakota"	"46"	545	807067	58.6
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Tennessee"	"47"	5679	6306019	80.7
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Texas"	"48"	12913	24801761	59.5
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Utah"	"49"	627	2723421	30.3
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Vermont"	"50"	530	624817	71.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Virginia"	"51"	5440	7925937	67.0
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Washington"	"53"	4321	6667426	63.7
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"West Virginia"	"54"	2041	1847775	85.1
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Wisconsin"	"55"	3843	5669264	60.8
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Wyoming"	"56"	306	559851	52.4
+	"Lung and Bronchus"	"22030"	"2009"	"2009"	"Puerto Rico"	"72"	759	3740410	18.1
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Alabama"	"01"	4033	4785161	73.2
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Alaska"	"02"	361	714021	68.0
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Arizona"	"04"	3663	6408208	51.7
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Arkansas"	"05"	2629	2922394	76.7
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"California"	"06"	17287	37334079	48.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Colorado"	"08"	2193	5048254	46.6
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Connecticut"	"09"	2657	3579717	63.6
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Delaware"	"10"	738	899791	70.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"District of Columbia"	"11"	352	605126	60.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Florida"	"12"	16547	18849890	65.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Georgia"	"13"	6071	9713454	66.6
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Hawaii"	"15"	732	1363980	45.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Idaho"	"16"	838	1570986	52.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Illinois"	"17"	9286	12841249	69.2
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Indiana"	"18"	5314	6490590	75.8
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Iowa"	"19"	2397	3050694	66.1
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Kansas"	"20"	1939	2858824	62.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Kentucky"	"21"	4915	4347937	100.7
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Louisiana"	"22"	3500	4544951	73.7
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Maine"	"23"	1292	1327695	74.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Maryland"	"24"	3655	5788409	60.6
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Massachusetts"	"25"	4949	6565036	66.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Michigan"	"26"	8099	9877369	71.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Minnesota"	"27"	3242	5310903	57.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Mississippi"	"28"	2473	2970316	77.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Missouri"	"29"	5212	5996052	75.7
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Montana"	"30"	691	990643	57.9
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Nebraska"	"31"	1223	1830025	60.8
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Nevada"	"32"	1654	2703440	61.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"New Hampshire"	"33"	1071	1316708	70.1
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"New Jersey"	"34"	5764	8803881	58.8
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"New Mexico"	"35"	959	2064741	42.8
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"New York"	"36"	13471	19402920	62.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"North Carolina"	"37"	7540	9558979	72.8
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"North Dakota"	"38"	439	674530	56.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Ohio"	"39"	9708	11540766	72.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Oklahoma"	"40"	2933	3759596	70.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Oregon"	"41"	2606	3837972	59.0
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Pennsylvania"	"42"	10655	12712014	67.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Rhode Island"	"44"	832	1053219	67.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"South Carolina"	"45"	3700	4635894	69.9
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"South Dakota"	"46"	582	816299	61.6
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Tennessee"	"47"	5627	6356585	78.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Texas"	"48"	13046	25244363	58.4
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Utah"	"49"	581	2775426	27.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Vermont"	"50"	545	625984	71.8
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Virginia"	"51"	5277	8025787	63.5
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Washington"	"53"	4399	6743060	63.3
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"West Virginia"	"54"	1953	1854225	80.6
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Wisconsin"	"55"	4082	5690204	63.7
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Wyoming"	"56"	304	564516	51.2
+	"Lung and Bronchus"	"22030"	"2010"	"2010"	"Puerto Rico"	"72"	713	3721526	16.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Alabama"	"01"	4014	4801108	71.8
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Alaska"	"02"	349	722720	65.1
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Arizona"	"04"	3852	6468732	52.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Arkansas"	"05"	2688	2938538	77.4
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"California"	"06"	16672	37700034	45.4
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Colorado"	"08"	2219	5119480	45.4
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Connecticut"	"09"	2645	3589759	63.0
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Delaware"	"10"	815	907916	76.0
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"District of Columbia"	"11"	338	620472	57.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Florida"	"12"	16275	19105533	62.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Georgia"	"13"	6279	9812280	67.4
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Hawaii"	"15"	764	1378227	47.2
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Idaho"	"16"	858	1584134	52.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Illinois"	"17"	9369	12861882	68.4
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Indiana"	"18"	5380	6516845	75.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Iowa"	"19"	2366	3065389	63.9
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Kansas"	"20"	1985	2869917	62.9
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Kentucky"	"21"	4752	4367882	95.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Louisiana"	"22"	3436	4575381	70.8
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Maine"	"23"	1230	1328257	69.8
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Maryland"	"24"	3680	5844171	59.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Massachusetts"	"25"	5017	6611797	66.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Michigan"	"26"	7954	9876589	68.9
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Minnesota"	"27"	3130	5348119	53.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Mississippi"	"28"	2448	2977999	74.8
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Missouri"	"29"	5302	6010587	76.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Montana"	"30"	740	997746	60.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Nebraska"	"31"	1179	1842383	57.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"New Hampshire"	"33"	1077	1318344	69.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"New Jersey"	"34"	5978	8842934	59.9
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"New Mexico"	"35"	975	2078226	42.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"New York"	"36"	13771	19523202	62.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"North Carolina"	"37"	7482	9651025	70.1
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"North Dakota"	"38"	480	685326	60.2
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Ohio"	"39"	9689	11545442	71.4
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Oklahoma"	"40"	3087	3786626	73.0
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Oregon"	"41"	2782	3868509	62.0
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Pennsylvania"	"42"	10755	12745202	67.2
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Rhode Island"	"44"	818	1051856	65.5
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"South Carolina"	"45"	3711	4672733	68.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"South Dakota"	"46"	555	824289	57.9
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Tennessee"	"47"	5587	6398408	76.1
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Texas"	"48"	12821	25654464	55.3
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Utah"	"49"	655	2816440	29.8
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Vermont"	"50"	527	626687	67.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Virginia"	"51"	5168	8110783	60.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Washington"	"53"	4292	6823229	60.0
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"West Virginia"	"54"	2027	1854948	82.8
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Wisconsin"	"55"	4132	5709720	62.7
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Wyoming"	"56"	285	567768	47.2
+	"Lung and Bronchus"	"22030"	"2011"	"2011"	"Puerto Rico"	"72"	769	3678736	17.5
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Alabama"	"01"	4029	4816089	70.2
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Alaska"	"02"	341	731228	58.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Arizona"	"04"	3824	6553262	50.4
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Arkansas"	"05"	2712	2949499	76.4
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"California"	"06"	16861	38056055	44.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Colorado"	"08"	2325	5191731	45.5
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Connecticut"	"09"	2664	3593541	61.9
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Delaware"	"10"	772	917099	69.4
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"District of Columbia"	"11"	383	635342	62.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Florida"	"12"	16807	19352021	62.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Georgia"	"13"	6642	9917639	68.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Hawaii"	"15"	776	1392641	45.7
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Idaho"	"16"	899	1596097	52.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Illinois"	"17"	9326	12875167	66.9
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Indiana"	"18"	5250	6538283	72.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Iowa"	"19"	2365	3076636	63.1
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Kansas"	"20"	1931	2886281	59.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Kentucky"	"21"	4807	4382667	94.3
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Louisiana"	"22"	3565	4603676	70.9
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Maine"	"23"	1370	1328888	75.2
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Maryland"	"24"	3687	5890740	58.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Massachusetts"	"25"	5019	6657780	65.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Michigan"	"26"	7838	9886879	66.4
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Minnesota"	"27"	3313	5380443	55.3
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Mississippi"	"28"	2532	2985660	76.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Missouri"	"29"	5469	6025468	76.4
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Montana"	"30"	694	1005157	54.2
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Nebraska"	"31"	1263	1855973	60.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Nevada"	"32"	1724	2754874	59.2
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"New Hampshire"	"33"	1031	1321393	65.3
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"New Jersey"	"34"	5844	8874893	57.5
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"New Mexico"	"35"	980	2084792	41.0
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"New York"	"36"	13632	19606981	60.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"North Carolina"	"37"	7674	9747021	69.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"North Dakota"	"38"	480	702265	58.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Ohio"	"39"	9536	11551783	68.7
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Oklahoma"	"40"	3056	3817679	70.9
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Oregon"	"41"	2691	3899444	57.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Pennsylvania"	"42"	10554	12772789	64.7
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Rhode Island"	"44"	921	1052393	71.1
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"South Carolina"	"45"	3897	4721341	69.1
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"South Dakota"	"46"	560	834631	56.7
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Tennessee"	"47"	5732	6455469	75.9
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Texas"	"48"	13336	26089741	55.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Utah"	"49"	695	2856343	30.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Vermont"	"50"	530	626398	64.4
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Virginia"	"51"	5463	8193374	62.1
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Washington"	"53"	4404	6897292	59.8
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"West Virginia"	"54"	1999	1856283	79.6
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Wisconsin"	"55"	4076	5726422	60.5
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Wyoming"	"56"	309	577080	48.5
+	"Lung and Bronchus"	"22030"	"2012"	"2012"	"Puerto Rico"	"72"	808	3634487	18.2
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Alabama"	"01"	3925	4830533	67.5
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Alaska"	"02"	323	737442	54.8
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Arizona"	"04"	3906	6630799	49.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Arkansas"	"05"	2887	2957957	79.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"California"	"06"	16778	38414128	43.1
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Colorado"	"08"	2263	5271132	42.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Connecticut"	"09"	2747	3597168	62.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Delaware"	"10"	824	925353	70.5
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"District of Columbia"	"11"	340	649540	55.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Florida"	"12"	16527	19594467	59.8
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Georgia"	"13"	6489	9991562	64.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Hawaii"	"15"	855	1408765	50.0
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Idaho"	"16"	839	1612785	47.8
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Illinois"	"17"	9140	12889580	64.0
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Indiana"	"18"	5416	6570518	72.8
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Iowa"	"19"	2416	3092224	63.3
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Kansas"	"20"	2060	2894630	63.2
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Kentucky"	"21"	4912	4398500	94.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Louisiana"	"22"	3509	4627491	68.5
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Maine"	"23"	1400	1328778	75.5
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Maryland"	"24"	3768	5936040	57.6
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Massachusetts"	"25"	4964	6708810	62.7
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Michigan"	"26"	7676	9900506	63.6
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Minnesota"	"27"	3496	5420541	56.8
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Mississippi"	"28"	2610	2990976	76.7
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Missouri"	"29"	5426	6043708	74.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Montana"	"30"	765	1014402	58.6
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Nebraska"	"31"	1320	1869300	62.1
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Nevada"	"32"	1818	2790366	60.3
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"New Hampshire"	"33"	1087	1322660	65.7
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"New Jersey"	"34"	5993	8907384	57.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"New Mexico"	"35"	980	2086890	40.3
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"New York"	"36"	13702	19691032	60.2
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"North Carolina"	"37"	7952	9845432	70.3
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"North Dakota"	"38"	466	723626	57.0
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Ohio"	"39"	9713	11572232	68.8
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Oklahoma"	"40"	3113	3853405	70.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Oregon"	"41"	2716	3928030	56.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Pennsylvania"	"42"	10744	12783536	64.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Rhode Island"	"44"	922	1052856	71.3
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"South Carolina"	"45"	3842	4768498	66.1
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"South Dakota"	"46"	615	845270	60.9
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Tennessee"	"47"	5812	6496130	75.5
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Texas"	"48"	13194	26500674	53.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Utah"	"49"	619	2903685	26.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Vermont"	"50"	500	627129	60.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Virginia"	"51"	5298	8267875	58.6
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Washington"	"53"	4253	6973281	55.7
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"West Virginia"	"54"	2078	1852985	81.4
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Wisconsin"	"55"	4145	5743653	60.2
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Wyoming"	"56"	262	583131	39.6
+	"Lung and Bronchus"	"22030"	"2013"	"2013"	"Puerto Rico"	"72"	843	3593079	18.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Alabama"	"01"	3909	4846411	65.0
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Alaska"	"02"	336	737046	54.5
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Arizona"	"04"	3861	6728783	47.1
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Arkansas"	"05"	2848	2966835	77.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"California"	"06"	16879	38792291	42.0
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Colorado"	"08"	2332	5355588	42.2
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Connecticut"	"09"	2632	3594762	59.2
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Delaware"	"10"	806	935968	67.3
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"District of Columbia"	"11"	315	659836	50.5
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Florida"	"12"	16272	19905569	57.0
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Georgia"	"13"	6543	10097132	63.0
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Hawaii"	"15"	768	1420257	43.7
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Idaho"	"16"	902	1634806	48.8
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Illinois"	"17"	9528	12882189	65.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Indiana"	"18"	5232	6597880	68.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Iowa"	"19"	2444	3109481	63.3
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Kansas"	"20"	1987	2902507	60.1
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Kentucky"	"21"	4870	4412617	91.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Louisiana"	"22"	3573	4648990	68.8
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Maine"	"23"	1361	1330256	72.1
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Maryland"	"24"	3720	5975346	55.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Massachusetts"	"25"	4965	6755124	61.5
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Michigan"	"26"	7811	9916306	63.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Minnesota"	"27"	3305	5457125	52.3
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Mississippi"	"28"	2575	2993443	73.9
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Missouri"	"29"	5349	6063827	71.9
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Montana"	"30"	711	1023252	52.8
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Nebraska"	"31"	1223	1882980	56.9
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Nevada"	"32"	1637	2838281	51.7
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"New Hampshire"	"33"	1041	1327996	60.9
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"New Jersey"	"34"	5841	8938844	55.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"New Mexico"	"35"	960	2085567	38.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"New York"	"36"	13369	19748858	57.5
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"North Carolina"	"37"	7876	9940387	67.3
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"North Dakota"	"38"	491	740040	58.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Ohio"	"39"	9649	11596998	67.0
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Oklahoma"	"40"	3132	3879610	69.5
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Oregon"	"41"	2615	3971202	53.0
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Pennsylvania"	"42"	10662	12793767	63.2
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Rhode Island"	"44"	911	1054907	69.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"South Carolina"	"45"	3856	4829160	64.2
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"South Dakota"	"46"	580	853304	56.3
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Tennessee"	"47"	5825	6547779	73.8
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Texas"	"48"	13224	26979078	51.7
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Utah"	"49"	616	2944498	25.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Vermont"	"50"	508	626767	61.3
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Virginia"	"51"	5342	8328098	57.5
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Washington"	"53"	4376	7063166	55.4
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"West Virginia"	"54"	1998	1848751	77.6
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Wisconsin"	"55"	4082	5759432	57.9
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Wyoming"	"56"	303	584304	45.2
+	"Lung and Bronchus"	"22030"	"2014"	"2014"	"Puerto Rico"	"72"	806	3534888	17.5
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2014 Incidence"
+"Query Parameters:"
+"Title:"
+"Age Groups: All"
+"Cancer Sites: Lung and Bronchus"
+"Ethnicity: All"
+"Race: All"
+"Sex: All"
+"States and Puerto Rico: All"
+"Year: All, 1999 to 2014"
+"Group By: Cancer Sites, Year, States and Puerto Rico"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2014.html for more information."
+"---"
+"Query Date: Dec 12, 2017 10:40:44 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2014 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2016. Accessed at"
+"http://wonder.cdc.gov/cancer-v2014.html on Dec 12, 2017 10:40:44 AM"
+"---"
+Messages:
+"1. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"2. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. These states are missing data for the indicated year: Arkansas 1999-2000; District of Columbia 2002; Mississippi 1999-2002;"
+"Nevada 2011; South Dakota 1999-2000; Puerto Rico 1999-2004."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

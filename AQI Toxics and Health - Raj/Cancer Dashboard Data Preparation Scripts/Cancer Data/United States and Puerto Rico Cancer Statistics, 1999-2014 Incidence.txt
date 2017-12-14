@@ -1,0 +1,855 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"Year"	"Year Code"	"States"	"States Code"	Count	Population	Age-Adjusted Rate
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Alabama"	"01"	3613	4430141	78.8
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Alaska"	"02"	298	624779	84.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Arizona"	"04"	3260	5023823	63.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"California"	"06"	18723	33499204	65.3
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Colorado"	"08"	1904	4226018	55.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Connecticut"	"09"	2711	3386401	74.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Delaware"	"10"	713	774990	89.8
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"District of Columbia"	"11"	460	570213	83.3
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Florida"	"12"	16955	15759421	84.4
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Georgia"	"13"	5396	8045965	80.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Hawaii"	"15"	739	1210300	59.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Idaho"	"16"	694	1275674	59.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Illinois"	"17"	9461	12359020	79.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Indiana"	"18"	4995	6044969	83.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Iowa"	"19"	2369	2917634	72.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Kansas"	"20"	1927	2678338	71.3
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Kentucky"	"21"	4334	4018053	107.2
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Louisiana"	"22"	3793	4460811	91.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Maine"	"23"	1187	1266808	84.0
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Maryland"	"24"	4009	5254509	81.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Massachusetts"	"25"	5168	6317345	78.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Michigan"	"26"	7889	9897116	81.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Minnesota"	"27"	2866	4873481	62.0
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Missouri"	"29"	5109	5561948	87.7
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Montana"	"30"	644	897507	68.0
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Nebraska"	"31"	1163	1704764	66.1
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Nevada"	"32"	1550	1934718	86.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"New Hampshire"	"33"	910	1222014	76.8
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"New Jersey"	"34"	6415	8359592	73.8
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"New Mexico"	"35"	888	1808082	53.0
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"New York"	"36"	13742	18882725	71.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"North Carolina"	"37"	5977	7949361	76.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"North Dakota"	"38"	401	644259	57.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Ohio"	"39"	9831	11335454	83.4
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Oklahoma"	"40"	3064	3437147	86.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Oregon"	"41"	2701	3393941	78.3
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Pennsylvania"	"42"	10802	12263805	75.3
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Rhode Island"	"44"	992	1040402	87.1
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"South Carolina"	"45"	3259	3974682	82.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Tennessee"	"47"	4304	5638706	75.6
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Texas"	"48"	13024	20558220	77.4
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Utah"	"49"	565	2203482	36.7
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Vermont"	"50"	465	604683	75.7
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Virginia"	"51"	4482	7000174	68.5
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Washington"	"53"	4215	5842564	78.9
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"West Virginia"	"54"	2189	1811799	102.3
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Wisconsin"	"55"	3888	5332666	71.8
+	"Respiratory System"	"22010-22060"	"1999"	"1999"	"Wyoming"	"56"	305	491780	65.6
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Alabama"	"01"	3718	4452173	80.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Alaska"	"02"	277	627963	76.8
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Arizona"	"04"	3430	5160586	65.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"California"	"06"	18744	33987977	64.1
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Colorado"	"08"	2039	4326921	57.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Connecticut"	"09"	2664	3411777	72.8
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Delaware"	"10"	678	786373	83.5
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"District of Columbia"	"11"	405	572046	72.8
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Florida"	"12"	17268	16047515	84.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Georgia"	"13"	5718	8227303	84.2
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Hawaii"	"15"	707	1213519	55.9
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Idaho"	"16"	786	1299430	66.6
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Illinois"	"17"	9334	12434161	78.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Indiana"	"18"	5013	6091866	83.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Iowa"	"19"	2398	2929067	73.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Kansas"	"20"	1907	2693681	70.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Kentucky"	"21"	4464	4049021	108.9
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Louisiana"	"22"	3730	4471885	89.0
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Maine"	"23"	1256	1277072	87.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Maryland"	"24"	3881	5311034	77.5
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Massachusetts"	"25"	5172	6361104	77.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Michigan"	"26"	7906	9952450	80.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Minnesota"	"27"	2877	4933692	61.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Missouri"	"29"	4900	5607285	83.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Montana"	"30"	728	903773	75.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Nebraska"	"31"	1178	1713820	66.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Nevada"	"32"	1702	2018741	91.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"New Hampshire"	"33"	928	1239882	76.5
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"New Jersey"	"34"	6481	8430621	73.8
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"New Mexico"	"35"	933	1821204	54.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"New York"	"36"	14117	19001780	72.9
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"North Carolina"	"37"	6129	8081614	77.2
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"North Dakota"	"38"	406	642023	58.6
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Ohio"	"39"	9485	11363543	79.9
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Oklahoma"	"40"	3148	3454365	87.9
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Oregon"	"41"	2625	3429708	75.0
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Pennsylvania"	"42"	10857	12284173	75.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Rhode Island"	"44"	975	1050268	85.2
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"South Carolina"	"45"	3249	4024223	81.1
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Tennessee"	"47"	4298	5703719	74.5
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Texas"	"48"	12972	20944499	75.5
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Utah"	"49"	490	2244502	31.3
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Vermont"	"50"	444	609618	70.6
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Virginia"	"51"	4587	7105817	68.8
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Washington"	"53"	4113	5910512	75.7
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"West Virginia"	"54"	2146	1807021	99.8
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Wisconsin"	"55"	3744	5373999	68.4
+	"Respiratory System"	"22010-22060"	"2000"	"2000"	"Wyoming"	"56"	284	494300	60.0
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Alabama"	"01"	3938	4467634	84.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Alaska"	"02"	305	633714	79.1
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Arizona"	"04"	3552	5273477	66.3
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Arkansas"	"05"	2600	2691571	88.8
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"California"	"06"	18821	34479458	63.1
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Colorado"	"08"	2170	4425687	60.3
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Connecticut"	"09"	2725	3432835	73.6
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Delaware"	"10"	666	795699	80.7
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"District of Columbia"	"11"	453	574504	81.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Florida"	"12"	17022	16356966	81.7
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Georgia"	"13"	5819	8377038	83.9
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Hawaii"	"15"	674	1225948	52.0
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Idaho"	"16"	689	1319962	57.0
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Illinois"	"17"	9460	12488445	78.8
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Indiana"	"18"	5201	6127760	85.8
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Iowa"	"19"	2342	2931997	71.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Kansas"	"20"	1917	2702162	69.9
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Kentucky"	"21"	4606	4068132	111.4
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Louisiana"	"22"	3817	4477875	90.1
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Maine"	"23"	1289	1285692	88.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Maryland"	"24"	3646	5374691	71.5
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Massachusetts"	"25"	5191	6397634	77.5
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Michigan"	"26"	7942	9991120	80.3
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Minnesota"	"27"	2969	4982796	62.4
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Missouri"	"29"	4869	5641142	82.0
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Montana"	"30"	746	906961	76.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Nebraska"	"31"	1213	1719836	68.3
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Nevada"	"32"	1636	2098399	83.5
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"New Hampshire"	"33"	908	1255517	73.8
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"New Jersey"	"34"	6526	8492671	73.6
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"New Mexico"	"35"	901	1831690	51.1
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"New York"	"36"	13802	19082838	70.5
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"North Carolina"	"37"	6072	8210122	75.3
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"North Dakota"	"38"	416	639062	59.6
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Ohio"	"39"	9841	11387404	82.4
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Oklahoma"	"40"	3307	3467100	91.6
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Oregon"	"41"	2698	3467937	76.0
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Pennsylvania"	"42"	11087	12298970	76.7
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Rhode Island"	"44"	893	1057142	77.5
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"South Carolina"	"45"	3376	4064995	82.8
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"South Dakota"	"46"	522	757972	64.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Tennessee"	"47"	4419	5750789	75.4
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Texas"	"48"	13383	21319622	76.4
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Utah"	"49"	551	2283715	34.2
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Vermont"	"50"	440	612223	68.9
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Virginia"	"51"	4443	7198362	65.4
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Washington"	"53"	4237	5985722	76.6
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"West Virginia"	"54"	2160	1801481	99.9
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Wisconsin"	"55"	3974	5406835	71.8
+	"Respiratory System"	"22010-22060"	"2001"	"2001"	"Wyoming"	"56"	261	494657	53.7
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Alabama"	"01"	3900	4480089	82.2
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Alaska"	"02"	306	642337	76.0
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Arizona"	"04"	3473	5396255	63.1
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Arkansas"	"05"	2633	2705927	88.6
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"California"	"06"	18677	34871843	61.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Colorado"	"08"	2232	4490406	60.7
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Connecticut"	"09"	2814	3458749	75.2
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Delaware"	"10"	680	806169	80.2
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Florida"	"12"	17176	16689370	80.6
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Georgia"	"13"	5948	8508256	83.3
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Hawaii"	"15"	728	1239613	55.0
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Idaho"	"16"	739	1340372	59.7
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Illinois"	"17"	9761	12525556	80.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Indiana"	"18"	5309	6155967	86.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Iowa"	"19"	2389	2934234	72.2
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Kansas"	"20"	1847	2713535	67.0
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Kentucky"	"21"	4582	4089875	109.1
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Louisiana"	"22"	3617	4497267	84.0
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Maine"	"23"	1254	1295960	84.2
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Maryland"	"24"	3897	5440389	74.9
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Massachusetts"	"25"	5276	6417206	78.1
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Michigan"	"26"	7945	10015710	79.3
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Minnesota"	"27"	3017	5018935	62.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Missouri"	"29"	5214	5674825	86.6
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Montana"	"30"	717	911667	71.9
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Nebraska"	"31"	1203	1728292	66.9
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Nevada"	"32"	1736	2173791	84.8
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"New Hampshire"	"33"	955	1269089	76.3
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"New Jersey"	"34"	6534	8552643	72.8
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"New Mexico"	"35"	976	1855309	54.2
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"New York"	"36"	14023	19137800	70.8
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"North Carolina"	"37"	6434	8326201	77.7
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"North Dakota"	"38"	446	638168	63.1
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Ohio"	"39"	9856	11407889	81.6
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Oklahoma"	"40"	3347	3489080	91.6
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Oregon"	"41"	2716	3513424	74.8
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Pennsylvania"	"42"	11250	12331031	77.0
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Rhode Island"	"44"	962	1065995	82.8
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"South Carolina"	"45"	3438	4107795	82.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"South Dakota"	"46"	557	760020	67.4
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Tennessee"	"47"	4626	5795918	77.3
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Texas"	"48"	13610	21690325	76.0
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Utah"	"49"	538	2324815	32.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Vermont"	"50"	426	615442	65.5
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Virginia"	"51"	4748	7286873	68.4
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Washington"	"53"	4095	6052349	72.4
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"West Virginia"	"54"	2142	1805414	97.8
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Wisconsin"	"55"	3872	5445162	68.9
+	"Respiratory System"	"22010-22060"	"2002"	"2002"	"Wyoming"	"56"	280	500017	56.2
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Alabama"	"01"	3836	4503491	79.8
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Alaska"	"02"	322	648414	81.2
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Arizona"	"04"	3649	5510364	64.4
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Arkansas"	"05"	2646	2724816	88.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"California"	"06"	18589	35253159	59.9
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Colorado"	"08"	2176	4528732	57.5
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Connecticut"	"09"	2844	3484336	74.9
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Delaware"	"10"	787	818003	90.5
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"District of Columbia"	"11"	422	568502	74.8
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Florida"	"12"	17262	17004085	79.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Georgia"	"13"	5982	8622793	81.8
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Hawaii"	"15"	757	1251154	55.7
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Idaho"	"16"	815	1363380	64.1
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Illinois"	"17"	9771	12556006	79.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Indiana"	"18"	5432	6196638	87.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Iowa"	"19"	2519	2941999	75.5
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Kansas"	"20"	1961	2723004	70.2
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Kentucky"	"21"	4592	4117170	107.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Louisiana"	"22"	3797	4521042	87.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Maine"	"23"	1302	1306513	86.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Maryland"	"24"	4109	5496269	77.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Massachusetts"	"25"	5224	6422565	76.7
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Michigan"	"26"	8516	10041152	83.7
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Minnesota"	"27"	3127	5053572	63.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Mississippi"	"28"	2491	2868312	87.2
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Missouri"	"29"	5409	5709403	88.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Montana"	"30"	722	919630	71.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Nebraska"	"31"	1258	1738643	69.5
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Nevada"	"32"	1776	2248850	82.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"New Hampshire"	"33"	965	1279840	75.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"New Jersey"	"34"	6441	8601402	71.1
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"New Mexico"	"35"	930	1877574	50.1
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"New York"	"36"	14051	19175939	70.2
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"North Carolina"	"37"	6705	8422501	79.1
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"North Dakota"	"38"	470	638817	66.3
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Ohio"	"39"	9828	11434788	80.4
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Oklahoma"	"40"	3256	3504892	87.9
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Oregon"	"41"	2695	3547376	72.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Pennsylvania"	"42"	11179	12374658	75.9
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Rhode Island"	"44"	953	1071342	81.1
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"South Carolina"	"45"	3565	4150297	83.2
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"South Dakota"	"46"	558	763729	67.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Tennessee"	"47"	5085	5847812	83.6
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Texas"	"48"	13947	22030931	75.9
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Utah"	"49"	581	2360137	34.3
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Vermont"	"50"	505	617858	76.3
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Virginia"	"51"	5382	7366977	76.3
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Washington"	"53"	4277	6104115	74.3
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"West Virginia"	"54"	2048	1812295	92.0
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Wisconsin"	"55"	3980	5479203	69.8
+	"Respiratory System"	"22010-22060"	"2003"	"2003"	"Wyoming"	"56"	316	503453	62.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Alabama"	"01"	4125	4530729	84.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Alaska"	"02"	346	659286	82.9
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Arizona"	"04"	3651	5652404	62.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Arkansas"	"05"	2733	2749686	89.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"California"	"06"	18629	35574576	59.1
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Colorado"	"08"	2143	4575013	55.1
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Connecticut"	"09"	2753	3496094	71.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Delaware"	"10"	791	830803	88.6
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"District of Columbia"	"11"	391	567754	70.3
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Florida"	"12"	17658	17415318	79.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Georgia"	"13"	5927	8769252	79.3
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Hawaii"	"15"	832	1273569	60.0
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Idaho"	"16"	823	1391802	62.6
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Illinois"	"17"	9517	12589773	76.9
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Indiana"	"18"	5273	6233007	83.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Iowa"	"19"	2448	2953635	72.6
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Kansas"	"20"	1903	2734373	67.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Kentucky"	"21"	4782	4146101	110.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Louisiana"	"22"	3910	4552238	88.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Maine"	"23"	1360	1313688	88.0
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Maryland"	"24"	4027	5546935	74.7
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Massachusetts"	"25"	5305	6412281	77.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Michigan"	"26"	8259	10055315	80.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Minnesota"	"27"	3124	5087713	62.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Mississippi"	"28"	2512	2889010	86.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Missouri"	"29"	5326	5747741	86.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Montana"	"30"	699	930009	67.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Nebraska"	"31"	1331	1749370	72.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Nevada"	"32"	1836	2346222	81.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"New Hampshire"	"33"	1060	1290121	80.6
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"New Jersey"	"34"	6213	8634561	67.9
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"New Mexico"	"35"	972	1903808	51.1
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"New York"	"36"	14125	19171567	69.9
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"North Carolina"	"37"	7143	8553152	82.2
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"North Dakota"	"38"	445	644705	61.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Ohio"	"39"	10152	11452251	82.4
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Oklahoma"	"40"	3254	3525233	86.6
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Oregon"	"41"	2787	3569463	73.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Pennsylvania"	"42"	11163	12410722	75.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Rhode Island"	"44"	968	1074579	80.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"South Carolina"	"45"	3492	4210921	79.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"South Dakota"	"46"	563	770396	66.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Tennessee"	"47"	5557	5910809	89.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Texas"	"48"	13827	22394023	73.6
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Utah"	"49"	567	2401580	32.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Vermont"	"50"	480	619920	70.9
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Virginia"	"51"	5456	7475575	75.5
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Washington"	"53"	4308	6178645	72.7
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"West Virginia"	"54"	2114	1816438	94.8
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Wisconsin"	"55"	4072	5514026	70.3
+	"Respiratory System"	"22010-22060"	"2004"	"2004"	"Wyoming"	"56"	300	509106	57.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Alabama"	"01"	4076	4565917	82.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Alaska"	"02"	356	666946	82.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Arizona"	"04"	3792	5839077	62.4
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Arkansas"	"05"	2791	2781097	89.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"California"	"06"	18785	35827943	58.5
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Colorado"	"08"	2140	4631888	53.5
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Connecticut"	"09"	2802	3506956	72.4
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Delaware"	"10"	828	845150	89.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"District of Columbia"	"11"	390	567136	69.6
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Florida"	"12"	17761	17842038	77.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Georgia"	"13"	6157	8925922	79.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Hawaii"	"15"	822	1292729	57.7
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Idaho"	"16"	876	1428241	64.5
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Illinois"	"17"	9705	12609903	77.6
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Indiana"	"18"	5433	6278616	84.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Iowa"	"19"	2590	2964454	75.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Kansas"	"20"	2032	2745299	70.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Kentucky"	"21"	4766	4182742	107.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Louisiana"	"22"	3701	4411396	84.4
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Maine"	"23"	1358	1318787	86.4
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Maryland"	"24"	4015	5592379	73.6
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Massachusetts"	"25"	5496	6403290	79.3
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Michigan"	"26"	8470	10051137	81.3
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Minnesota"	"27"	3154	5119598	61.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Mississippi"	"28"	2474	2876229	84.4
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Missouri"	"29"	5597	5790300	89.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Montana"	"30"	770	940102	72.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Nebraska"	"31"	1287	1761497	69.3
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Nevada"	"32"	1728	2432143	75.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"New Hampshire"	"33"	1088	1298492	80.4
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"New Jersey"	"34"	6545	8651974	71.1
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"New Mexico"	"35"	1025	1932274	52.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"New York"	"36"	14196	19132610	69.7
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"North Carolina"	"37"	7496	8705407	84.1
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"North Dakota"	"38"	493	646089	67.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Ohio"	"39"	10225	11463320	82.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Oklahoma"	"40"	3327	3548597	87.5
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Oregon"	"41"	2881	3613202	74.3
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Pennsylvania"	"42"	11460	12449990	76.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Rhode Island"	"44"	946	1067916	80.5
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"South Carolina"	"45"	3733	4270150	83.0
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"South Dakota"	"46"	559	775493	64.7
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Tennessee"	"47"	5743	5991057	90.5
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Texas"	"48"	14144	22773020	73.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Utah"	"49"	610	2457719	33.9
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Vermont"	"50"	514	621215	75.2
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Virginia"	"51"	5631	7577105	76.1
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Washington"	"53"	4406	6257305	72.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"West Virginia"	"54"	2284	1820492	101.1
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Wisconsin"	"55"	3986	5546166	67.8
+	"Respiratory System"	"22010-22060"	"2005"	"2005"	"Wyoming"	"56"	312	514157	58.8
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Alabama"	"01"	4146	4628981	81.5
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Alaska"	"02"	378	675302	82.0
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Arizona"	"04"	3747	6029141	59.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Arkansas"	"05"	2688	2821761	84.4
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"California"	"06"	18773	36021202	57.7
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Colorado"	"08"	2187	4720423	52.7
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Connecticut"	"09"	2894	3517460	73.9
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Delaware"	"10"	862	859268	90.9
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"District of Columbia"	"11"	383	570681	69.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Florida"	"12"	17490	18166990	75.4
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Georgia"	"13"	6347	9155813	79.0
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Hawaii"	"15"	803	1309731	55.4
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Idaho"	"16"	852	1468669	60.2
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Illinois"	"17"	9922	12643955	78.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Indiana"	"18"	5651	6332669	87.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Iowa"	"19"	2554	2982644	74.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Kansas"	"20"	2011	2762931	69.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Kentucky"	"21"	4913	4219239	109.0
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Louisiana"	"22"	3719	4302665	85.4
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Maine"	"23"	1381	1323619	86.8
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Maryland"	"24"	4026	5627367	72.3
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Massachusetts"	"25"	5419	6410084	77.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Michigan"	"26"	8465	10036081	80.0
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Minnesota"	"27"	3134	5163555	60.2
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Mississippi"	"28"	2559	2904978	85.9
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Missouri"	"29"	5560	5842704	87.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Montana"	"30"	759	952692	70.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Nebraska"	"31"	1293	1772693	68.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Nevada"	"32"	1893	2522658	79.2
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"New Hampshire"	"33"	1068	1308389	76.8
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"New Jersey"	"34"	6618	8661679	71.3
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"New Mexico"	"35"	1011	1962137	50.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"New York"	"36"	14362	19104631	70.3
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"North Carolina"	"37"	7593	8917270	82.4
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"North Dakota"	"38"	435	649422	59.5
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Ohio"	"39"	10321	11481213	81.8
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Oklahoma"	"40"	3428	3594090	88.2
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Oregon"	"41"	2829	3670883	70.8
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Pennsylvania"	"42"	11382	12510809	75.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Rhode Island"	"44"	930	1063096	78.1
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"South Carolina"	"45"	3773	4357847	80.5
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"South Dakota"	"46"	569	783033	64.8
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Tennessee"	"47"	5798	6088766	89.0
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Texas"	"48"	13963	23359580	69.9
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Utah"	"49"	621	2525507	32.5
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Vermont"	"50"	605	622892	86.6
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Virginia"	"51"	5522	7673725	73.2
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Washington"	"53"	4429	6370753	71.3
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"West Virginia"	"54"	2232	1827912	97.4
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Wisconsin"	"55"	4124	5577655	69.3
+	"Respiratory System"	"22010-22060"	"2006"	"2006"	"Wyoming"	"56"	302	522667	56.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Alabama"	"01"	4197	4672840	81.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Alaska"	"02"	361	680300	73.7
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Arizona"	"04"	3864	6167681	59.7
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Arkansas"	"05"	2875	2848650	89.3
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"California"	"06"	18685	36250311	56.4
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Colorado"	"08"	2362	4803868	54.7
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Connecticut"	"09"	2872	3527270	72.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Delaware"	"10"	795	871749	81.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"District of Columbia"	"11"	370	574404	66.4
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Florida"	"12"	17390	18367842	73.6
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Georgia"	"13"	6602	9349988	79.5
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Hawaii"	"15"	848	1315675	56.3
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Idaho"	"16"	887	1505105	60.6
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Illinois"	"17"	10065	12695866	78.5
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Indiana"	"18"	5649	6379599	85.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Iowa"	"19"	2583	2999212	73.7
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Kansas"	"20"	2052	2783785	69.7
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Kentucky"	"21"	4942	4256672	106.6
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Louisiana"	"22"	3744	4375581	83.9
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Maine"	"23"	1370	1327040	83.6
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Maryland"	"24"	4066	5653408	72.0
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Massachusetts"	"25"	5391	6431559	76.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Michigan"	"26"	8778	10001284	81.6
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Minnesota"	"27"	3266	5207203	61.8
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Mississippi"	"28"	2745	2928350	90.5
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Missouri"	"29"	5368	5887612	82.7
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Montana"	"30"	802	964706	70.8
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Nebraska"	"31"	1394	1783440	72.6
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Nevada"	"32"	1807	2601072	73.0
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"New Hampshire"	"33"	1078	1312540	76.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"New Jersey"	"34"	6600	8677885	70.4
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"New Mexico"	"35"	1059	1990070	51.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"New York"	"36"	14524	19132335	70.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"North Carolina"	"37"	7735	9118037	81.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"North Dakota"	"38"	444	652822	59.8
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Ohio"	"39"	10283	11500468	80.4
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Oklahoma"	"40"	3437	3634349	87.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Oregon"	"41"	2798	3722417	68.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Pennsylvania"	"42"	11645	12563937	76.4
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Rhode Island"	"44"	974	1057315	80.8
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"South Carolina"	"45"	3911	4444110	81.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"South Dakota"	"46"	587	791623	65.2
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Tennessee"	"47"	5696	6175727	85.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Texas"	"48"	14349	23831983	69.8
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Utah"	"49"	601	2597746	31.0
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Vermont"	"50"	560	623481	77.5
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Virginia"	"51"	5438	7751000	70.5
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Washington"	"53"	4223	6461587	65.9
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"West Virginia"	"54"	2179	1834052	94.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Wisconsin"	"55"	4131	5610775	68.1
+	"Respiratory System"	"22010-22060"	"2007"	"2007"	"Wyoming"	"56"	292	534876	52.9
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Alabama"	"01"	4472	4718206	84.7
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Alaska"	"02"	373	687455	75.9
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Arizona"	"04"	3874	6280362	58.2
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Arkansas"	"05"	2859	2874554	86.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"California"	"06"	18521	36604337	54.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Colorado"	"08"	2434	4889730	54.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Connecticut"	"09"	2885	3545579	71.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Delaware"	"10"	825	883874	82.0
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"District of Columbia"	"11"	360	580236	64.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Florida"	"12"	17822	18527305	73.7
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Georgia"	"13"	6723	9504843	78.2
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Hawaii"	"15"	867	1332213	56.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Idaho"	"16"	918	1534320	60.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Illinois"	"17"	10077	12747038	77.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Indiana"	"18"	5758	6424806	85.0
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Iowa"	"19"	2631	3016734	74.3
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Kansas"	"20"	2045	2808076	68.5
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Kentucky"	"21"	5128	4289878	108.7
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Louisiana"	"22"	3822	4435586	83.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Maine"	"23"	1373	1330509	82.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Maryland"	"24"	4137	5684965	71.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Massachusetts"	"25"	5507	6468967	76.5
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Michigan"	"26"	8422	9946889	76.8
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Minnesota"	"27"	3318	5247018	60.9
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Mississippi"	"28"	2799	2947806	91.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Missouri"	"29"	5486	5923916	82.8
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Montana"	"30"	741	976415	64.2
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Nebraska"	"31"	1291	1796378	66.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Nevada"	"32"	1884	2653630	74.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"New Hampshire"	"33"	1125	1315906	77.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"New Jersey"	"34"	6601	8711090	69.3
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"New Mexico"	"35"	1046	2010662	49.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"New York"	"36"	14839	19212436	70.7
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"North Carolina"	"37"	7876	9309449	79.8
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"North Dakota"	"38"	432	657569	57.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Ohio"	"39"	10419	11515391	80.0
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Oklahoma"	"40"	3464	3668976	86.0
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Oregon"	"41"	2899	3768748	68.9
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Pennsylvania"	"42"	11521	12612285	74.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Rhode Island"	"44"	992	1055003	81.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"South Carolina"	"45"	3902	4528996	78.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"South Dakota"	"46"	592	799124	65.2
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Tennessee"	"47"	5834	6247411	84.6
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Texas"	"48"	14486	24309039	68.4
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Utah"	"49"	579	2663029	28.7
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Vermont"	"50"	538	624151	73.5
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Virginia"	"51"	5736	7833496	72.5
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Washington"	"53"	4471	6562231	68.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"West Virginia"	"54"	2297	1840310	97.2
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Wisconsin"	"55"	4223	5640996	68.1
+	"Respiratory System"	"22010-22060"	"2008"	"2008"	"Wyoming"	"56"	326	546043	56.8
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Alabama"	"01"	4382	4757938	81.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Alaska"	"02"	386	698895	76.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Arizona"	"04"	4113	6343154	60.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Arkansas"	"05"	2755	2896843	82.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"California"	"06"	19170	36961229	55.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Colorado"	"08"	2397	4972195	52.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Connecticut"	"09"	2840	3561807	69.6
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Delaware"	"10"	805	891730	79.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"District of Columbia"	"11"	383	592228	66.8
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Florida"	"12"	17782	18652644	72.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Georgia"	"13"	6829	9620846	77.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Hawaii"	"15"	830	1346717	52.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Idaho"	"16"	874	1554439	56.2
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Illinois"	"17"	10285	12796778	77.7
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Indiana"	"18"	5737	6459325	83.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Iowa"	"19"	2649	3032870	73.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Kansas"	"20"	2055	2832704	67.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Kentucky"	"21"	5085	4317074	105.8
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Louisiana"	"22"	3768	4491648	80.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Maine"	"23"	1437	1329590	84.6
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Maryland"	"24"	3979	5730388	67.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Massachusetts"	"25"	5574	6517613	76.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Michigan"	"26"	8343	9901591	74.9
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Minnesota"	"27"	3405	5281203	61.2
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Mississippi"	"28"	2705	2958774	86.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Missouri"	"29"	5755	5961088	85.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Montana"	"30"	773	983982	65.5
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Nebraska"	"31"	1252	1812683	63.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Nevada"	"32"	1820	2684665	68.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"New Hampshire"	"33"	1113	1316102	74.6
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"New Jersey"	"34"	6473	8755602	66.7
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"New Mexico"	"35"	1056	2036802	48.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"New York"	"36"	14690	19307066	68.9
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"North Carolina"	"37"	8082	9449566	79.7
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"North Dakota"	"38"	450	664968	58.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Ohio"	"39"	10618	11528896	80.4
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Oklahoma"	"40"	3226	3717572	79.0
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Oregon"	"41"	2881	3808600	67.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Pennsylvania"	"42"	11528	12666858	73.8
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Rhode Island"	"44"	976	1053646	80.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"South Carolina"	"45"	4053	4589872	79.2
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"South Dakota"	"46"	590	807067	63.6
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Tennessee"	"47"	6079	6306019	86.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Texas"	"48"	14003	24801761	64.2
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Utah"	"49"	677	2723421	32.7
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Vermont"	"50"	566	624817	76.3
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Virginia"	"51"	5822	7925937	71.5
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Washington"	"53"	4591	6667426	67.6
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"West Virginia"	"54"	2209	1847775	92.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Wisconsin"	"55"	4123	5669264	65.1
+	"Respiratory System"	"22010-22060"	"2009"	"2009"	"Wyoming"	"56"	330	559851	56.4
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Alabama"	"01"	4352	4785161	78.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Alaska"	"02"	382	714021	70.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Arizona"	"04"	3888	6408208	54.8
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Arkansas"	"05"	2807	2922394	81.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"California"	"06"	18503	37334079	51.8
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Colorado"	"08"	2352	5048254	49.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Connecticut"	"09"	2866	3579717	68.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Delaware"	"10"	789	899791	75.2
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"District of Columbia"	"11"	384	605126	65.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Florida"	"12"	17806	18849890	70.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Georgia"	"13"	6611	9713454	72.0
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Hawaii"	"15"	790	1363980	49.0
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Idaho"	"16"	893	1570986	55.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Illinois"	"17"	9976	12841249	74.1
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Indiana"	"18"	5706	6490590	81.2
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Iowa"	"19"	2592	3050694	71.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Kansas"	"20"	2107	2858824	67.6
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Kentucky"	"21"	5264	4347937	107.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Louisiana"	"22"	3819	4544951	80.2
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Maine"	"23"	1360	1327695	78.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Maryland"	"24"	3909	5788409	64.6
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Massachusetts"	"25"	5268	6565036	70.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Michigan"	"26"	8688	9877369	76.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Minnesota"	"27"	3447	5310903	60.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Mississippi"	"28"	2671	2970316	83.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Missouri"	"29"	5592	5996052	81.1
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Montana"	"30"	738	990643	61.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Nebraska"	"31"	1308	1830025	64.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Nevada"	"32"	1762	2703440	65.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"New Hampshire"	"33"	1139	1316708	74.4
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"New Jersey"	"34"	6177	8803881	62.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"New Mexico"	"35"	1017	2064741	45.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"New York"	"36"	14449	19402920	66.8
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"North Carolina"	"37"	8103	9558979	78.0
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"North Dakota"	"38"	463	674530	59.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Ohio"	"39"	10434	11540766	77.6
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Oklahoma"	"40"	3118	3759596	74.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Oregon"	"41"	2762	3837972	62.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Pennsylvania"	"42"	11427	12712014	72.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Rhode Island"	"44"	897	1053219	72.6
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"South Carolina"	"45"	4034	4635894	76.1
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"South Dakota"	"46"	611	816299	64.8
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Tennessee"	"47"	6061	6356585	84.5
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Texas"	"48"	14062	25244363	62.6
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Utah"	"49"	644	2775426	30.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Vermont"	"50"	588	625984	77.3
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Virginia"	"51"	5645	8025787	67.7
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Washington"	"53"	4675	6743060	67.2
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"West Virginia"	"54"	2107	1854225	86.9
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Wisconsin"	"55"	4367	5690204	68.0
+	"Respiratory System"	"22010-22060"	"2010"	"2010"	"Wyoming"	"56"	335	564516	55.9
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Alabama"	"01"	4376	4801108	78.2
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Alaska"	"02"	372	722720	68.4
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Arizona"	"04"	4066	6468732	55.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Arkansas"	"05"	2842	2938538	81.8
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"California"	"06"	17850	37700034	48.6
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Colorado"	"08"	2404	5119480	49.0
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Connecticut"	"09"	2840	3589759	67.6
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Delaware"	"10"	862	907916	80.3
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"District of Columbia"	"11"	367	620472	62.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Florida"	"12"	17469	19105533	67.2
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Georgia"	"13"	6756	9812280	72.2
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Hawaii"	"15"	818	1378227	50.4
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Idaho"	"16"	907	1584134	55.3
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Illinois"	"17"	10035	12861882	73.2
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Indiana"	"18"	5775	6516845	80.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Iowa"	"19"	2530	3065389	68.3
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Kansas"	"20"	2106	2869917	66.6
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Kentucky"	"21"	5085	4367882	102.0
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Louisiana"	"22"	3753	4575381	77.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Maine"	"23"	1318	1328257	74.8
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Maryland"	"24"	3977	5844171	64.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Massachusetts"	"25"	5312	6611797	70.2
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Michigan"	"26"	8516	9876589	73.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Minnesota"	"27"	3355	5348119	57.3
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Mississippi"	"28"	2653	2977999	80.9
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Missouri"	"29"	5677	6010587	81.5
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Montana"	"30"	794	997746	64.6
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Nebraska"	"31"	1269	1842383	62.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"New Hampshire"	"33"	1154	1318344	74.5
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"New Jersey"	"34"	6397	8842934	64.2
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"New Mexico"	"35"	1045	2078226	45.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"New York"	"36"	14713	19523202	66.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"North Carolina"	"37"	8029	9651025	75.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"North Dakota"	"38"	516	685326	64.9
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Ohio"	"39"	10391	11545442	76.5
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Oklahoma"	"40"	3284	3786626	77.5
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Oregon"	"41"	2924	3868509	65.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Pennsylvania"	"42"	11515	12745202	72.0
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Rhode Island"	"44"	890	1051856	71.3
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"South Carolina"	"45"	4034	4672733	74.6
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"South Dakota"	"46"	600	824289	62.6
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Tennessee"	"47"	6002	6398408	81.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Texas"	"48"	13891	25654464	59.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Utah"	"49"	701	2816440	31.7
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Vermont"	"50"	565	626687	72.5
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Virginia"	"51"	5539	8110783	64.8
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Washington"	"53"	4587	6823229	64.0
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"West Virginia"	"54"	2181	1854948	89.1
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Wisconsin"	"55"	4415	5709720	66.9
+	"Respiratory System"	"22010-22060"	"2011"	"2011"	"Wyoming"	"56"	313	567768	51.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Alabama"	"01"	4331	4816089	75.4
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Alaska"	"02"	361	731228	61.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Arizona"	"04"	4042	6553262	53.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Arkansas"	"05"	2899	2949499	81.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"California"	"06"	18081	38056055	47.9
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Colorado"	"08"	2475	5191731	48.3
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Connecticut"	"09"	2852	3593541	66.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Delaware"	"10"	819	917099	73.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"District of Columbia"	"11"	420	635342	67.9
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Florida"	"12"	17992	19352021	67.3
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Georgia"	"13"	7169	9917639	73.1
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Hawaii"	"15"	832	1392641	49.0
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Idaho"	"16"	949	1596097	55.3
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Illinois"	"17"	9975	12875167	71.5
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Indiana"	"18"	5605	6538283	76.7
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Iowa"	"19"	2571	3076636	68.7
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Kansas"	"20"	2087	2886281	64.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Kentucky"	"21"	5192	4382667	101.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Louisiana"	"22"	3893	4603676	77.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Maine"	"23"	1455	1328888	79.9
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Maryland"	"24"	3952	5890740	62.0
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Massachusetts"	"25"	5353	6657780	69.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Michigan"	"26"	8410	9886879	71.1
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Minnesota"	"27"	3540	5380443	59.1
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Mississippi"	"28"	2740	2985660	82.1
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Missouri"	"29"	5836	6025468	81.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Montana"	"30"	738	1005157	57.4
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Nebraska"	"31"	1353	1855973	64.8
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Nevada"	"32"	1839	2754874	62.9
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"New Hampshire"	"33"	1098	1321393	69.4
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"New Jersey"	"34"	6243	8874893	61.3
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"New Mexico"	"35"	1050	2084792	43.9
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"New York"	"36"	14614	19606981	65.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"North Carolina"	"37"	8233	9747021	74.5
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"North Dakota"	"38"	514	702265	62.6
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Ohio"	"39"	10173	11551783	73.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Oklahoma"	"40"	3240	3817679	75.1
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Oregon"	"41"	2835	3899444	60.8
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Pennsylvania"	"42"	11302	12772789	69.4
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Rhode Island"	"44"	979	1052393	75.5
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"South Carolina"	"45"	4199	4721341	74.4
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"South Dakota"	"46"	597	834631	60.3
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Tennessee"	"47"	6157	6455469	81.5
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Texas"	"48"	14388	26089741	59.9
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Utah"	"49"	757	2856343	33.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Vermont"	"50"	564	626398	68.7
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Virginia"	"51"	5838	8193374	66.2
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Washington"	"53"	4683	6897292	63.5
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"West Virginia"	"54"	2157	1856283	85.8
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Wisconsin"	"55"	4355	5726422	64.5
+	"Respiratory System"	"22010-22060"	"2012"	"2012"	"Wyoming"	"56"	335	577080	52.6
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Alabama"	"01"	4222	4830533	72.6
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Alaska"	"02"	342	737442	57.8
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Arizona"	"04"	4141	6630799	52.4
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Arkansas"	"05"	3084	2957957	85.3
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"California"	"06"	17982	38414128	46.1
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Colorado"	"08"	2453	5271132	46.4
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Connecticut"	"09"	2934	3597168	67.2
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Delaware"	"10"	888	925353	76.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"District of Columbia"	"11"	362	649540	58.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Florida"	"12"	17731	19594467	64.3
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Georgia"	"13"	6988	9991562	69.6
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Hawaii"	"15"	906	1408765	53.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Idaho"	"16"	897	1612785	50.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Illinois"	"17"	9784	12889580	68.4
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Indiana"	"18"	5793	6570518	77.8
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Iowa"	"19"	2588	3092224	67.8
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Kansas"	"20"	2206	2894630	67.7
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Kentucky"	"21"	5247	4398500	101.2
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Louisiana"	"22"	3812	4627491	74.3
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Maine"	"23"	1482	1328778	79.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Maryland"	"24"	4061	5936040	61.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Massachusetts"	"25"	5324	6708810	67.1
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Michigan"	"26"	8239	9900506	68.2
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Minnesota"	"27"	3719	5420541	60.4
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Mississippi"	"28"	2834	2990976	83.2
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Missouri"	"29"	5791	6043708	79.4
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Montana"	"30"	818	1014402	62.7
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Nebraska"	"31"	1405	1869300	66.1
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Nevada"	"32"	1898	2790366	62.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"New Hampshire"	"33"	1160	1322660	70.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"New Jersey"	"34"	6423	8907384	62.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"New Mexico"	"35"	1081	2086890	44.5
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"New York"	"36"	14684	19691032	64.4
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"North Carolina"	"37"	8513	9845432	75.2
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"North Dakota"	"38"	506	723626	61.7
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Ohio"	"39"	10470	11572232	74.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Oklahoma"	"40"	3318	3853405	75.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Oregon"	"41"	2884	3928030	60.3
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Pennsylvania"	"42"	11513	12783536	69.6
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Rhode Island"	"44"	980	1052856	75.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"South Carolina"	"45"	4147	4768498	71.3
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"South Dakota"	"46"	654	845270	64.8
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Tennessee"	"47"	6260	6496130	81.2
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Texas"	"48"	14286	26500674	57.6
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Utah"	"49"	680	2903685	28.9
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Vermont"	"50"	545	627129	66.1
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Virginia"	"51"	5696	8267875	62.8
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Washington"	"53"	4515	6973281	59.0
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"West Virginia"	"54"	2236	1852985	87.8
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Wisconsin"	"55"	4427	5743653	64.3
+	"Respiratory System"	"22010-22060"	"2013"	"2013"	"Wyoming"	"56"	287	583131	43.2
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Alabama"	"01"	4220	4846411	70.1
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Alaska"	"02"	363	737046	58.5
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Arizona"	"04"	4100	6728783	50.0
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Arkansas"	"05"	3034	2966835	82.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"California"	"06"	17973	38792291	44.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Colorado"	"08"	2519	5355588	45.5
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Connecticut"	"09"	2830	3594762	63.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Delaware"	"10"	855	935968	71.3
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"District of Columbia"	"11"	344	659836	54.7
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Florida"	"12"	17488	19905569	61.4
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Georgia"	"13"	7015	10097132	67.3
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Hawaii"	"15"	818	1420257	46.5
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Idaho"	"16"	959	1634806	52.0
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Illinois"	"17"	10220	12882189	70.2
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Indiana"	"18"	5582	6597880	73.1
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Iowa"	"19"	2616	3109481	67.7
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Kansas"	"20"	2108	2902507	63.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Kentucky"	"21"	5230	4412617	98.1
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Louisiana"	"22"	3894	4648990	74.9
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Maine"	"23"	1452	1330256	76.9
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Maryland"	"24"	3979	5975346	59.1
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Massachusetts"	"25"	5319	6755124	65.8
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Michigan"	"26"	8352	9916306	67.7
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Minnesota"	"27"	3561	5457125	56.3
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Mississippi"	"28"	2780	2993443	79.7
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Missouri"	"29"	5706	6063827	76.7
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Montana"	"30"	757	1023252	56.2
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Nebraska"	"31"	1301	1882980	60.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Nevada"	"32"	1739	2838281	54.8
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"New Hampshire"	"33"	1110	1327996	64.9
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"New Jersey"	"34"	6259	8938844	59.3
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"New Mexico"	"35"	1043	2085567	41.9
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"New York"	"36"	14359	19748858	61.8
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"North Carolina"	"37"	8458	9940387	72.1
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"North Dakota"	"38"	528	740040	62.8
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Ohio"	"39"	10320	11596998	71.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Oklahoma"	"40"	3361	3879610	74.5
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Oregon"	"41"	2763	3971202	56.0
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Pennsylvania"	"42"	11443	12793767	67.9
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Rhode Island"	"44"	964	1054907	73.5
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"South Carolina"	"45"	4155	4829160	69.0
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"South Dakota"	"46"	621	853304	60.6
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Tennessee"	"47"	6195	6547779	78.4
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Texas"	"48"	14239	26979078	55.4
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Utah"	"49"	684	2944498	28.2
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Vermont"	"50"	544	626767	65.8
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Virginia"	"51"	5729	8328098	61.5
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Washington"	"53"	4636	7063166	58.7
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"West Virginia"	"54"	2163	1848751	84.0
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Wisconsin"	"55"	4395	5759432	62.2
+	"Respiratory System"	"22010-22060"	"2014"	"2014"	"Wyoming"	"56"	329	584304	48.9
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2014 Incidence"
+"Query Parameters:"
+"Title:"
+"Age Groups: All"
+"Cancer Sites: Respiratory System"
+"Ethnicity: All"
+"Race: All"
+"Sex: All"
+"States: All"
+"Year: All, 1999 to 2014"
+"Group By: Cancer Sites, Year, States"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2014.html for more information."
+"---"
+"Query Date: Dec 12, 2017 10:37:08 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2014 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2016. Accessed at"
+"http://wonder.cdc.gov/cancer-v2014.html on Dec 12, 2017 10:37:08 AM"
+"---"
+Messages:
+"1. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"2. 'Missing' is displayed for a combination of states/territories/MSAs and years that did not meet the United States Cancer"
+"Statistics (USCS) publication standard or did not allow permission for their data to be used."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. These states are missing data for the indicated year: Arkansas 1999-2000; District of Columbia 2002; Mississippi 1999-2002;"
+"Nevada 2011; South Dakota 1999-2000."
+"5. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria. Incidence data"
+"shown for the United States are diagnoses and populations from included registries only."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
+"7. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
