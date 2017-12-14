@@ -29,4 +29,5 @@ To build the data for Toxics Vizzes:
 For Cancer Data creation:
 1. Cancer_Data_Code.ipynb and cancer merge.ipynb
 
-For AQI Severity Dashboard, once city_AQI dataset is created using city_AQI_build.py, run the Code_For_AQI_by_Severity.ipynb notebook using the city_AQI.csv dataset.
+For AQI Severity Dashboard data:
+1. Once city_AQI dataset is created using city_AQI_build.py, run the Code_For_AQI_by_Severity.ipynb notebook using the city_AQI.csv dataset.
