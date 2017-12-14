@@ -1,13 +1,13 @@
-# MIDS w209_Group_Project . 
-## Contributors: Matthew Nelson, Amy Smessaert, Varadarajan Srinivasan
+# MIDS W209-Data Visualization Group_Project . 
+#### Contributors: Matthew Nelson, Amy Smessaert, Varadarajan Srinivasan
 
 
-## Project was largely built in Tableau. Data preparation was done using python - Pandas and Numpy mostly.Data and Tableau files are too large to upload to Github. Please visit:
+#### Project was largely built in Tableau. Data preparation was done using python - Pandas and Numpy mostly.Data and Tableau files are too large to upload to Github. Please visit:
 
-## Final Project Webpage
+#### Final Project Webpage
 http://people.ischool.berkeley.edu/~amy/209_final_project/index.html
 
-### Tableau Vizzes
+#### Tableau Vizzes
 https://public.tableau.com/profile/matthew.nelson6182#!/  
 https://public.tableau.com/profile/varadarajan.srinivasan#!/
 
